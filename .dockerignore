@@ -1,0 +1,13 @@
+target/
+Dockerfile*
+docker-compose*
+.dockerignore
+.git
+.gitignore
+README.md
+.env
+.vscode
+.idea
+*.log
+backups/
+database.bin
