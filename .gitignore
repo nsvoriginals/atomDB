@@ -1,0 +1,9 @@
+target/
+Dockerfile*
+
+README.md
+
+*.log
+backups/
+database.bin
+.qodo/
